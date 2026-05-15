@@ -17,7 +17,7 @@ docker push monishavp25/program:latest
 cd "DevOps"
 git clone "------"
 cd DockerProgram
-git add
+git add .
 git commit -m "Commit"
 git push
 docker build -t program .
