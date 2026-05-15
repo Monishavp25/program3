@@ -69,7 +69,7 @@ pipeline {
     }
 }
      
-        
+----------------------------------------------------------------------------------------        
 freestyle
 java --version
 https://my.slack.com/services/new/jenkins-ci
